@@ -1,0 +1,44 @@
+#wrap {
+    width: 100%;
+    max-width: 1560px;
+    margin: 0 auto;
+}
+#header {
+    width: 100%;
+    height: 60px;
+    text-align: center;
+    line-height: 60px;
+    background-color: #385970;
+}
+#section {
+    width: 100%;
+}
+#section .imgArea {
+    width: 100%;
+}
+#section .imgArea img {
+    width: 100%;
+    display: block;
+}
+#section #numArea {
+    width: 100%;
+    height: 350px;
+    background-color: #ccc;
+}
+#section #numArea li {
+    width: 33.333333333%;
+    height: 100%;
+    float: left;
+    text-align: center;
+    line-height: 350px;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+#footer {
+    width:100%;
+    height: 100px;
+    text-align: center;
+    line-height: 100px;
+    background-color: #385970;
+}
